@@ -2,7 +2,7 @@
 Hi, I'm Freezer!
   <img src="https://giphy.com/gifs/funimation-dragon-ball-super-frieza-golden-OQ6tzMPyK6ItCPfcGb" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/MRFREEZER07"> </a> 
+ <img src="[https://giphy.com/gifs/funimation-dragon-ball-super-frieza-golden-OQ6tzMPyK6ItCPfcGb](https://giphy.com/gifs/funimation-dragon-ball-super-frieza-golden-OQ6tzMPyK6ItCPfcGb)" alt="Profile views" align='right'/> <a href="https://github.com/MRFREEZER07"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
